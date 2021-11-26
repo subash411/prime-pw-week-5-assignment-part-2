@@ -1,0 +1,23 @@
+header {
+  text-align: center;
+  font-style: italic;
+  color: Red;
+  background-color: black;
+  border: 3px solid green;
+  padding: 1em;
+  margin-bottom: 1%;
+}
+
+main {
+  background-color: lightgrey;
+  color: blue;
+  padding: 1em;
+  text-align: center;
+  font-style: italic;
+}
+
+body {
+  background-image: url("record.png");
+  margin: 0;
+  background-repeat: repeat;
+}
